@@ -103,7 +103,13 @@ t2.start()
 t1.join()
 t2.join()
 ```
-
+## OUTPUT
+```
+Server started and waiting...
+Client connected: ('127.0.0.1', 35328)
+Received from client: Ping from client
+Reply from server: Hi client, message received!
+```
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
